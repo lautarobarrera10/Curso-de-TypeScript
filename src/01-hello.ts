@@ -1,2 +1,2 @@
-var myName = 'Lautaro';
+var myName = 'Pedro';
 console.log(`Hello, ${myName.toUpperCase()}`);
